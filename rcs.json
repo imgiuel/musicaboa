@@ -1,7 +1,7 @@
 {
 	"room": "Afflatus",
 	"author": ":cccccccccc #Botanicorum",
-	"css": "https://cdn.bssecure.net/nc-themes/plug-themes/nc331-theme.css",
+	"css": "https://raw.githubusercontent.com/Botanistt/afflatus-ccs/master/css.css",
 	"rules": {
 		"allowAutorespond": true,
 		"allowAutowoot": true,
