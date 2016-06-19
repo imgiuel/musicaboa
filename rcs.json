@@ -1,7 +1,7 @@
 {
 	"room": "Afflatus",
 	"author": ":cccccccccc #Botanicorum",
-	"css": "https://raw.githubusercontent.com/Botanistt/afflatus-ccs/master/css.css",
+	"css": "https://barn.afflatus.win/_/plug/css.css",
 	"rules": {
 		"allowAutorespond": true,
 		"allowAutowoot": true,
