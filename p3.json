@@ -1,0 +1,36 @@
+{
+    "colors": {
+        "background": "#000000",
+        "chat": {
+            "ambassador": null,
+            "bouncer": null,
+            "cohost": "#C54B8C",
+            "residentdj": null,
+            "host": "#FFCC33",
+            "manager": null,
+            "message": null
+        }
+    },
+     "css": {
+        "import": [
+        	"https://barn.afflatus.win/_/plug/css.css"
+        ]
+    },
+    "images": {
+        "background": "https://i.imgur.com/98EG4aQ.jpg",
+        "booth": null,
+        "icons": {
+            "bouncer": null,
+            "cohost": "http://i.imgur.com/Kf2rXuh.png",
+            "host": "http://i.imgur.com/Kf2rXuh.png",
+            "manager": null,
+            "residentdj": null
+        },
+        "playback": null
+    },
+    "rules": {
+        "allowAutorespond": "true",
+        "allowAutowoot": "true",
+	      "allowAutojoin": "true"
+    }
+}
