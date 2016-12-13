@@ -25,7 +25,6 @@
 		"user": null
 	},
 	"images": {
-//		"background": "https://i.imgur.com/98EG4aQ.jpg",
 		"background": "https://cdn.radiant.dj/rcs/bg/2k13winter.jpg",
 		"playback": null,
 		"admin": null,
@@ -39,6 +38,7 @@
 	},
 	"autocomplete": [],
 	"emotes": {
+		"background": "https://i.imgur.com/98EG4aQ.jpg",
 		"firelenny": "https://i.imgur.com/jleilmo.gif",
 		"ban": "https://has.lv/public/style_emoticons/default/ban.gif",
 		"yeee": "http://66.media.tumblr.com/c5f77923cef10415a823c2992cf28459/tumblr_nflyo77p4j1sqx0u8o1_500.gif",
