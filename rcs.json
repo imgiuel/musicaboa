@@ -1,43 +1,46 @@
-{
-	"room": "Música Boa",
-	"author": "0MEIA",
-	"css": "",
-	"rules": {
-		"allowAutorespond": true,
-		"allowAutowoot": true,
-		"allowAutojoin": true,
-		"allowAutograb": true,
-		"allowSmartVote": true,
-		"allowEmotes": true,
-		"allowShowingMehs": true,
-		"forceSmartVote": false
-	},
-	"ccc": {
-		"admin": null,
-		"ambassador": null,
-		"host": null,
-		"cohost": null,
-		"manager": null,
-		"bouncer": null,
-		"rdj": null,
-		"subscriber": null,
-		"friend": null,
-		"user": null
-	},
-	"images": {
-		"background": "http://i.imgur.com/Usz5qRh.jpg",
-		"playback": null,
-		"admin": null,
-		"ambassador": null,
-		"host": "https://i.imgur.com/Kf2rXuh.png",
-		"cohost": "https://i.imgur.com/r43WaYR.png",
-		"manager": null,
-		"bouncer": null,
-		"rdj": null,
-		"subscriber": null
-	},
-	"autocomplete": [],
-	"emotes": {
+{  
+   "room":                    "Música Boa",
+   "author":                  "0MEIA",
+   "icon":                    null,
+   "css":                     "",
+   "rules":{  
+      "allowAutorespond":     true,
+      "allowAutowoot":        true,
+      "allowAutojoin":        true,
+      "allowAutograb":        true,
+      "allowSmartVote":       true,
+      "allowEmotes":          true,
+      "allowShowingMehs":     false,
+      "forceSmartVote":       false
+   },
+   "ccc":{  
+      "admin":                null,
+      "ambassador":           null,
+      "host":                 null,
+      "cohost":               null,
+      "manager":              null,
+      "bouncer":              null,
+      "rdj":                  null,
+      "subscriber":           null,
+      "silversubscriber":     null,
+      "friend":               null,
+      "user":                 null
+   },
+   "images":{  
+      "background":           "http://i.imgur.com/Usz5qRh.jpg",
+      "playback":             "",
+      "admin":                null,
+      "ambassador":           null,
+      "host":                 null,
+      "cohost":               null,
+      "manager":              null,
+      "bouncer":              null,
+      "rdj":                  null,
+      "subscriber":           null,
+      "silversubscriber":     null
+      
+   },
+   "emotes":{
       "dança":"http://i.imgur.com/6fVRvRu.gif",
       "dança1":"https://i.imgur.com/2a9yvTK.gif",
       "dança2":"https://i.imgur.com/T1TV85N.gif",
@@ -58,8 +61,6 @@
       "dança17":"https://i.imgur.com/Rb2Xeyn.gif",
       "dança18":"https://i.imgur.com/cBAVsRX.gif",
       "dança19":"https://i.imgur.com/78m2wLS.gif",
-      "dança20":"https://i.imgur.com/MPSRv7K.gif",
-      "name":"gif",
-      "name":"gif",
-	}
+      "dança20":"https://i.imgur.com/MPSRv7K.gif"
+   }
 }
