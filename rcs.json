@@ -1,7 +1,7 @@
 {
-	"room": "Afflatus",
-	"author": ":cccccccccc #Botanicorum",
-	"css": "https://aubergine.acidland.lv/_/plug/css.css",
+	"room": "Música Boa",
+	"author": "0MEIA",
+	"css": "",
 	"rules": {
 		"allowAutorespond": true,
 		"allowAutowoot": true,
@@ -25,7 +25,7 @@
 		"user": null
 	},
 	"images": {
-		"background": "https://cdn.radiant.dj/rcs/bg/2k14worldonfire.jpg",
+		"background": "http://i.imgur.com/Usz5qRh.jpg",
 		"playback": null,
 		"admin": null,
 		"ambassador": null,
@@ -38,9 +38,28 @@
 	},
 	"autocomplete": [],
 	"emotes": {
-		"background": "https://i.imgur.com/98EG4aQ.jpg",
-		"firelenny": "https://i.imgur.com/jleilmo.gif",
-		"ban": "https://has.lv/public/style_emoticons/default/ban.gif",
-		"really2": "http://animals.sandiegozoo.org/sites/default/files/inline-images/emu_face.jpg"
+      "dança":"http://i.imgur.com/6fVRvRu.gif",
+      "dança1":"https://i.imgur.com/2a9yvTK.gif",
+      "dança2":"https://i.imgur.com/T1TV85N.gif",
+      "dança3":"https://i.imgur.com/p6flPPd.gif",
+      "dança4":"http://i.imgur.com/6fVRvRu.gif",
+      "dança5":"https://i.imgur.com/rX5BO3G.gif",
+      "dança6":"https://i.imgur.com/sFzQt38.gif",
+      "dança7":"https://i.imgur.com/srfAuNV.gif",
+      "dança8":"https://i.imgur.com/B3GtZow.gif",
+      "dança9":"https://i.imgur.com/3EtukMJ.gif",
+      "dança10":"https://i.imgur.com/yoXBrd0.gif",
+      "dança11":"https://i.imgur.com/3U4oChr.gif",
+      "dança12":"https://i.imgur.com/DrYlDLO.gif",
+      "dança13":"https://i.imgur.com/CbYC2Jl.gif",
+      "dança14":"https://i.imgur.com/O6WjHOv.gif",
+      "dança15":"https://i.imgur.com/PKNncNX.gif",
+      "dança16":"https://i.imgur.com/TrcKBfH.gif",
+      "dança17":"https://i.imgur.com/Rb2Xeyn.gif",
+      "dança18":"https://i.imgur.com/cBAVsRX.gif",
+      "dança19":"https://i.imgur.com/78m2wLS.gif",
+      "dança20":"https://i.imgur.com/MPSRv7K.gif",
+      "name":"gif",
+      "name":"gif",
 	}
 }
