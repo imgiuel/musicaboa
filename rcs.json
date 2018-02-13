@@ -1,7 +1,7 @@
 {
     "room": "Música Boa",
     "author": "0MEIA",
-    "icon": "http://i.imgur.com/6fVRvRu.gif",
+    "icon": "https://i.imgur.com/Nzow6jk.gif",
     "css": "https://cdn.radiant.dj/rcs/rs_room.css",
     "rules": {
         "allowAutorespond": true,
@@ -28,7 +28,7 @@
     },
     "images": {
         "background": "https://i.imgur.com/tssvRPH.jpg",
-        "playback": null,
+        "playback": "https://i.imgur.com/BpjuPdY.png",
         "admin": "https://cdn.radiant.dj/rcs/icons/radiant/admin.png",
         "ambassador": "https://cdn.radiant.dj/rcs/icons/radiant/ambassador.png",
         "host": "https://nightbloo.github.io/plug/icons/host.png",
