@@ -1,7 +1,7 @@
 {
     "room": "Música Boa",
     "author": "0MEIA",
-    "icon": "https://i.imgur.com/Nzow6jk.gif",
+    "icon": "https://discordbots.org/images/music.svg",
     "css": "https://cdn.radiant.dj/rcs/rs_room.css",
     "rules": {
         "allowAutorespond": true,
