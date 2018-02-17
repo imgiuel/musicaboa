@@ -2,7 +2,7 @@
     "room": "Música Boa",
     "author": "0MEIA",
     "icon": "https://i.imgur.com/SR1zc7Y.gif",
-    "css": "https://github.com/imgiuel/musicaboa/raw/master/css.css",
+    "css": "https://rawgit.com/WiBla/Script/master/ressources/blue.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
